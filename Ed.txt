@@ -1,1 +1,1 @@
-favorite color = blue
+favorite color = Blue
